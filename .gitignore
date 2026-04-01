@@ -1,0 +1,7 @@
+build/
+devel/
+install/
+.catin_tools/
+*.pyc
+__pycache__/
+.DS_Store
